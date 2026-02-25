@@ -113,4 +113,16 @@ SafeSpace/
 
 ---
 
-**Would you like me to help you design a persistent SQL database schema to track user mood trends over time?**
+🛠️ Future Roadmap
+
+[ ] Database Integration: Persistent chat history via PostgreSQL/Redis.
+
+[ ] Streaming Responses: Real-time "typing" effect for better UX.
+
+[ ] Geolocation: Dynamic therapist search via Google Maps API.
+
+[ ] Sentiment Analytics: Mood tracking over time for user insights.
+
+📄 License
+
+This project is licensed under the MIT License.
